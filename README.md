@@ -17,7 +17,7 @@ A frontend recreation of the Twitter (X) home feed, built with HTML and Tailwind
 ![Twitter clone home feed, timeline section](screenshots/home-feed-middle.png)
 
 ### Home feed — lower section
-![Twitter clone home feed, lower section](screenshots/home-feed-lower.png)
+![Twitter clone home feed, lower section](screenshots/home-feed-bottom.png)
 
 ## Tech Stack
 
