@@ -35,6 +35,7 @@ A frontend recreation of the Twitter (X) home feed, built with HTML and Tailwind
 2. Install dependencies:
    ```bash
    npm install
+   npm run build
    ```
 3. Check `package.json` for the available scripts, then run the development/build script listed there.
 
